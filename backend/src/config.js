@@ -36,7 +36,7 @@ const format = {
 };
 
 const extraMetadata = {
-  external_url: "https://codecats.xyz", // Replace with your website or remove this line if you do not have one.
+  external_url: "https://delicate-fenglisu-2eb7a3.netlify.app", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
